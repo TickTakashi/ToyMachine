@@ -32,8 +32,6 @@ namespace ToyMachine {
 
         Console.WriteLine("Final Result is: " + result);
       }
-      Console.WriteLine("Press Any Key to Exit...");
-      Console.ReadKey();
     }
   }
 }
